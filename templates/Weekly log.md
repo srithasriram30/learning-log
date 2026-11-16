@@ -1,0 +1,80 @@
+---
+week: "{{date:gggg-[W]ww}}"
+plan-week:
+dates: "{{date:D MMM YYYY}} –"
+tags: [weekly]
+---
+
+# Week {{date:gggg-[W]ww}}
+
+**Plan week:** _(1, 2, 3 …)_  ·  **Main topics:** 
+**Deliverable this week:** 
+
+## Daily log
+<!-- 5-min wrap-up: 3 lines. 1) What I did  2) What stuck / what confused me  3) Next step -->
+
+### Sun
+- Did:
+- Stuck/clicked:
+- Next:
+
+### Mon
+- Did:
+- Stuck/clicked:
+- Next:
+
+### Tue
+- Did:
+- Stuck/clicked:
+- Next:
+
+### Wed
+- Did:
+- Stuck/clicked:
+- Next:
+
+### Thu
+- Did:
+- Stuck/clicked:
+- Next:
+
+### Fri
+- Did:
+- Stuck/clicked:
+- Next:
+
+### Sat (AI-free practice + review)
+- Did:
+- Stuck/clicked:
+- Next:
+
+## Practice tally
+| Site | Language | Done | Target |
+|---|---|---|---|
+| Exercism | Java | 0 | |
+| Codewars | JS | 0 | |
+| Other | | 0 | |
+
+## Anki
+- New cards made this week: 
+- Days reviewed: /7
+- Sunday clean-up done: [ ] leeches checked  [ ] flagged cards fixed
+
+## Saturday review (30 min)
+- WakaTime total: __ h (target 16 h)
+- Split by language / project: 
+- Low days and why: 
+- Khan Academy maths sessions: /2
+- Cert prep (45 min): [ ]
+
+**Reflection (3 lines)**
+1. 
+2. 
+3. 
+
+**Deliverable checklist**
+- [ ] 
+- [ ] 
+
+**AI use this week** (what for, did I follow the 20-minute rule?)
+- 

@@ -1,0 +1,14 @@
+# Private notes (job search, drafts) – never pushed
+private/*
+!private/.gitkeep
+
+# Obsidian per-device state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
